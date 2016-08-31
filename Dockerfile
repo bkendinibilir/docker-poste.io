@@ -1,4 +1,4 @@
-FROM analogic/poste.io:1-free
+FROM analogic/poste.io:latest
 
 MAINTAINER Benjamin Kendinibilir <bkendinibilir@seibert-media.net>
 
