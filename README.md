@@ -1,6 +1,6 @@
 # docker-poste.io
 
-Patched version of [analogic poste.io mail server](https://poste.io/), to fix [this dnsbl bug](https://bitbucket.org/analogic/mailserver/issues/96/make-dnsbl-smarter).
+Patched version of [analogic poste.io mail server](https://poste.io/), to adjust some settings.
 
 ## Getting started
 
